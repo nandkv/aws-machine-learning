@@ -1,5 +1,5 @@
 # Problem Statement
-#### Fraud Detection 
+#### Identifying and catching fraudulent transactions.
 
 # ETL Strategy:
 ## 
