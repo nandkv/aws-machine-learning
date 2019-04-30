@@ -12,4 +12,4 @@ Split the dataset in to 3 datasets:
 ##
 
 # Deployment Strategy
-
+Amazon SageMaker real-time hosted endpoint for flagging fraudelent transactions.
