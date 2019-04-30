@@ -4,8 +4,8 @@
 # ETL Strategy:
 ## 
 
-# Model Strategy:
+# Modelling Strategy:
 ##
 
-## Deployment Strategy
+# Deployment Strategy
 
