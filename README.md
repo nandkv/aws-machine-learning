@@ -25,3 +25,5 @@ It is very fast and utilizes gradient boosting which is an approach where new mo
 
 # Deployment Strategy
 Amazon SageMaker real-time hosted endpoint deployed on EC2 for flagging fraudelent transactions.
+![ETL Strategy](https://s3.amazonaws.com/nand-aws-ml/deployment.png)
+
