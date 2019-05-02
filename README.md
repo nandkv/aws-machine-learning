@@ -1,6 +1,7 @@
 # Problem Statement
 Identifying and catching fraudulent bank transactions.
-![stack Overflow](http://lmsotfy.com/so.png)
+!(https://s3.amazonaws.com/nand-aws-ml/one.png)
+
 
 # ETL Strategy:
 Split the dataset in to 3 datasets:
