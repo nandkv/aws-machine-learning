@@ -1,5 +1,5 @@
 # Problem Statement
-Identifying and catching fraudulent transactions.
+Identifying and catching fraudulent bank transactions.
 
 # ETL Strategy:
 Split the dataset in to 3 datasets:
@@ -9,7 +9,7 @@ Split the dataset in to 3 datasets:
 
 # Modelling Strategy:
 *Use the XGBoost Algorithm*
-
+￼
 It is very fast and utilizes gradient boosting which is an approach where new models are created that predict the residuals or errors of prior models and then added together to make the final prediction. It is called gradient boosting because it uses a gradient descent algorithm to minimize the loss when adding new models.
 
 # Deployment Strategy
