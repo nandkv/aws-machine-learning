@@ -1,6 +1,6 @@
 # Problem Statement
 Identifying and catching fraudulent bank transactions.
-!(https://s3.amazonaws.com/nand-aws-ml/one.png)
+![](https://s3.amazonaws.com/nand-aws-ml/one.png)
 
 
 # ETL Strategy:
