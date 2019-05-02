@@ -16,11 +16,11 @@ Split the dataset in to 3 datasets:
 # Modelling Strategy:
 *Use the XGBoost Algorithm*
 ￼![ETL Strategy](https://s3.amazonaws.com/nand-aws-ml/five.png)
+￼![ETL Strategy](https://s3.amazonaws.com/nand-aws-ml/seven.png)
+￼![ETL Strategy](https://s3.amazonaws.com/nand-aws-ml/eight.png)
 
 It is very fast and utilizes gradient boosting which is an approach where new models are created that predict the residuals or errors of prior models and then added together to make the final prediction. It is called gradient boosting because it uses a gradient descent algorithm to minimize the loss when adding new models.
 ![ETL Strategy](https://s3.amazonaws.com/nand-aws-ml/four.png)
 
 # Deployment Strategy
 Amazon SageMaker real-time hosted endpoint deployed on EC2 for flagging fraudelent transactions.
-![ETL Strategy](https://s3.amazonaws.com/nand-aws-ml/seven.png)
-
